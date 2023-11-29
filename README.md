@@ -14,4 +14,4 @@ What are some other possible tables/graphs that we could create?
 1.	Table showing the most successful categories/subcategories vs the most unsuccessful categories/subcategories. 
 2.	Table showing the median, mean , min, max for the goal vs pledged.
 3.	Tables that exclude significant funding goal outliers.
-![image](https://github.com/Vik1975/kickstarter-analysis-/assets/98859030/c936821f-4ab9-4992-a1eb-a9330591b241)
+
